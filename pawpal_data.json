@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "name": "Neha",
+    "available_minutes": 120
+  },
+  "pets": [
+    {
+      "name": "Simba",
+      "species": "dog",
+      "age": 6,
+      "tasks": []
+    }
+  ]
+}

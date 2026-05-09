@@ -1,0 +1,64 @@
+# PawPal Pet Care Knowledge Base
+
+## Dogs - General Care
+Dogs need daily exercise to stay healthy and mentally stimulated. Most dogs require at least 30-60 minutes of physical activity per day, depending on breed and age. Puppies under 1 year need shorter, more frequent walks (5 minutes per month of age, twice daily). Senior dogs over 7 years benefit from gentler, shorter walks of 15-20 minutes.
+
+## Dogs - Feeding
+Adult dogs should be fed twice a day — morning and evening. Puppies under 6 months need 3-4 small meals per day. Avoid feeding dogs immediately before or after vigorous exercise to prevent bloat. Fresh water should always be available. Overfeeding is a leading cause of obesity in dogs; follow breed-specific portion guidelines.
+
+## Dogs - Grooming
+Short-haired dogs (Beagle, Boxer) need brushing once a week. Long-haired dogs (Golden Retriever, Collie) need brushing 3-4 times per week to prevent matting. All dogs need nail trimming every 3-4 weeks. Bathing should occur every 4-6 weeks unless the dog gets dirty sooner. Ear cleaning should happen monthly, especially for floppy-eared breeds.
+
+## Dogs - Veterinary Schedule
+Puppies need vaccines at 8, 12, and 16 weeks. Adult dogs need annual wellness exams and rabies booster every 1-3 years depending on the vaccine. Heartworm prevention medication should be given monthly. Flea and tick prevention is recommended year-round in most climates. Dental cleanings are recommended annually for dogs over 3 years.
+
+## Dogs - Mental Enrichment
+Dogs need mental stimulation in addition to physical exercise. Puzzle feeders, training sessions (10-15 minutes daily), and interactive toys reduce boredom and destructive behavior. Socialization with other dogs and people is important, especially for puppies under 16 weeks.
+
+## Cats - General Care
+Cats are independent but still need daily interaction and stimulation. Indoor cats need at least 20-30 minutes of active play per day. Cats sleep 12-16 hours daily — this is normal. Provide scratching posts to prevent furniture damage and maintain claw health. Cats are obligate carnivores and require meat-based protein in their diet.
+
+## Cats - Feeding
+Adult cats should be fed 2-3 times per day. Free-feeding dry kibble is common but can lead to overeating. Wet food (canned) helps with hydration and is especially important for cats prone to urinary issues. Kittens under 6 months need 3-4 small meals daily. Always provide fresh water; consider a water fountain as cats prefer moving water.
+
+## Cats - Grooming
+Short-haired cats groom themselves but benefit from weekly brushing. Long-haired cats (Persian, Maine Coon) need daily brushing to prevent matting. Nail trimming every 2-3 weeks prevents overgrowth. Most cats do not need baths unless they get into something messy. Check ears monthly for wax buildup or mites.
+
+## Cats - Veterinary Schedule
+Kittens need vaccines at 8, 12, and 16 weeks. Adult cats need annual wellness exams. Indoor cats still need rabies vaccines (often required by law). Spaying/neutering is recommended at 4-6 months. Dental health is important; brush teeth or provide dental treats weekly.
+
+## Cats - Litter Box Care
+Cats need at least one litter box per cat, plus one extra. Scoop litter boxes daily to maintain hygiene and prevent litter box avoidance. Replace litter entirely every 2-4 weeks. Place litter boxes in quiet, accessible locations away from food bowls.
+
+## Rabbits - General Care
+Rabbits are social animals and thrive in pairs. They need at least 3-4 hours of out-of-cage exercise daily. Rabbits are crepuscular — most active at dawn and dusk. Never pick up a rabbit by its ears; support the hindquarters. Rabbits can be litter trained.
+
+## Rabbits - Feeding
+Rabbits should have unlimited access to fresh timothy hay — it should make up 80% of their diet. Fresh leafy greens (romaine lettuce, parsley, cilantro) can be given daily in small amounts. Pellets should be limited to 1/4 cup per 5 lbs of body weight. Avoid sugary treats, carrots in large quantities, and iceberg lettuce. Fresh water is essential.
+
+## Rabbits - Grooming
+Rabbits groom themselves like cats. Brushing weekly (daily during shedding season) prevents wool block — a dangerous condition where swallowed fur blocks the digestive tract. Trim nails every 4-6 weeks. Never bathe a rabbit; it causes extreme stress and can lead to shock.
+
+## Birds - General Care
+Birds need social interaction and mental stimulation daily. Most parrots and cockatiels need 2-4 hours outside their cage per day. Birds are sensitive to drafts, smoke, and non-stick cookware fumes (PTFE toxicity). Provide perches of varying diameter to promote foot health. Birds sleep 10-12 hours nightly; cover the cage to signal bedtime.
+
+## Birds - Feeding
+Seed-only diets are nutritionally incomplete. Offer a base of formulated pellets (60-70% of diet) with fresh vegetables and some fruit daily. Avoid avocado, onion, garlic, chocolate, and caffeine — these are toxic to birds. Fresh water should be changed daily. Foraging toys encourage natural feeding behavior.
+
+## Birds - Grooming
+Wing clipping is optional — consult a vet for safety vs. enrichment tradeoffs. Nail trimming every 4-6 weeks prevents overgrowth. Provide a shallow water dish or light misting for bathing 2-3 times per week. Beak trimming is rarely needed if proper perches and foraging materials are available.
+
+## General - Signs Your Pet Needs Vet Attention
+Seek veterinary care if your pet shows: loss of appetite for more than 24 hours, vomiting or diarrhea lasting more than 24 hours, difficulty breathing, lethargy or sudden behavioral changes, limping or difficulty moving, excessive drinking or urination, visible wounds or swelling, or eye/nose discharge. When in doubt, call your vet.
+
+## General - Task Scheduling Tips
+High-priority tasks (medication, feeding) should be scheduled in the morning before other activities. Group grooming and enrichment tasks on the same day to reduce setup time. Vet appointments should be blocked as recurring tasks every 6-12 months. If your daily time budget is under 30 minutes, focus on feeding and a short walk; skip enrichment to the next available day.
+
+## General - Medication Administration
+Give medications at the same time each day to build routine. Hide pills in soft treats or pill pockets for dogs. For cats, wrap in a towel ("burrito wrap") to give pills safely. Always complete the full course of antibiotics even if the pet seems better. Store medications at the temperature specified on the label. Never give human medications to pets without veterinary approval.
+
+## Australian Shepherd - Breed Profile
+Australian Shepherds (Aussies) are high-energy herding dogs that need 1-2 hours of vigorous exercise daily. They are highly intelligent and need mental stimulation to prevent boredom and destructive behavior. Aussies thrive with agility training, frisbee, fetch, and obedience work. Red merle is a beautiful coat pattern with mottled red, cream, and white coloring — it requires brushing 2-3 times per week to manage shedding. Aussies shed heavily twice a year during coat blowing season and benefit from daily brushing during that time. They are prone to hip dysplasia and eye conditions (Collie Eye Anomaly), so annual vet checks are important. Aussies are loyal, affectionate family dogs that bond deeply with their owners.
+
+## Simba - Neha's Australian Shepherd
+Simba is a 6-year-old red merle Australian Shepherd. At 6 years old, Simba is in his prime adult years. He needs daily vigorous exercise (at least 60-90 min), regular brushing (2-3x per week), and mental enrichment like puzzle toys or training sessions. Watch for joint health as he approaches senior age (7+). Keep up with annual vet visits, dental cleanings, and heartworm prevention.
